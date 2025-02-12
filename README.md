@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Swornim Dangol</h1>
-<h3 align="center">A passionate developer from Nepal</h3>
+<h3 align="center">A passionate front-end developer from Nepal</h3>
 
 - 🔭 I’m currently working on **My own Website**
 
 - 🌱 I’m currently learning **Web development, CSS preprocessors, Automated Testing**
 
-- 📫 How to reach me **swornimclasher@gmail.com**
+- 📫 How to reach me **swornim20rks@gmail.com**
 
 - ⚡ Fun fact **I am a very fast learner, with very fast forgetting capability**
 
