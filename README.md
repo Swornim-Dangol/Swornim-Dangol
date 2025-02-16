@@ -1,9 +1,4 @@
-<h1 style="font-family: 'Poppins', sans-serif;
-    font-size: 35px ;
-    background: linear-gradient(-45deg,rgb(255, 147, 147),rgb(44, 36, 255),rgb(225, 0, 255),rgb(255, 0, 0));
-    background-clip: text;
-    color: transparent;
-    text-align: center;">Hi! I'm Swornim Dangol</h1>
+<h1 align="center">Hi! I'm Swornim Dangol</h1>
 <h3 align="center">A passionate front-end developer from Nepal</h3>
 
 - 🔭 I’m currently working on **My own Website and my first project**
