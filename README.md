@@ -38,5 +38,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:7b2ff7,100:ff6ec7&height=120&section=footer" alt="Footer" />
 </div>
