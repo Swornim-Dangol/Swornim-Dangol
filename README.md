@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/swornim-dangol/swornim-dangol/main/assets/background.gif" width="100%" alt="banner" />
-  <h1>Hi 👋, I'm Swornim Dangol</h1>
-  <h3>A passionate UI/UX Designer & Frontend Enthusiast</h3>
+  <img src="assets/background.gif" width="100%" alt="banner" />
 </div>
 
 ---
 
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center">About Me</h3>
 
 - 🔭 I’m currently working on **refining my UI/UX workflow**
 - 🌱 I’m currently learning **Advanced React & Animation Libraries**
@@ -16,19 +14,19 @@
 
 ---
 
-<h3 align="center">🎨 Design & Creative Tools</h3>
+<h3 align="center">Design & Creative Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
-<h3 align="center">💻 Development Tech Stack</h3>
+<h3 align="center">Development Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,javascript,dotnet,mysql,python,java" />
 </p>
 
 ---
 
-<h3 align="center">📈 Activity Overview</h3>
+<h3 align="center">Activity Overview</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swornim-dangol&theme=tokyonight" alt="GitHub Streak" />
 </p>
