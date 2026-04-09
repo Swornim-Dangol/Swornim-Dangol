@@ -2,7 +2,7 @@
   <img src="assets/background.gif" width="100%" alt="banner" />
 </div>
 
----
+<hr>
 
 <h3 align="center">About Me</h3>
 
@@ -12,7 +12,7 @@
 - 📫 Reach me at: **swornim20rks@gmail.com**
 - ⚡ Fun fact: **My Github is getting greener, but Figma is where my heart (and most of my hours) live.**
 
----
+<hr>
 
 <h3 align="center">Design & Creative Tools</h3>
 <p align="center">
@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,javascript,dotnet,mysql,python,java" />
 </p>
 
----
+<hr>
 
 <h3 align="center">Activity Overview</h3>
 <p align="center">
