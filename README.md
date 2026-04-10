@@ -21,15 +21,21 @@
 
 <h3 align="center">Development Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,javascript,dotnet,mysql,python,java" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,javascript,dotnet,mysql,python,java&perline=4" />
 </p>
 
 <hr>
 
 <h3 align="center">Activity Overview</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swornim-dangol&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swornim-dangol&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=a855f7&currStreakLabel=4facfe" width="49%" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swornim-dangol&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4facfe&line=a855f7&point=ffffff" width="100%" alt="Activity Graph" />
+</p>
+
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
