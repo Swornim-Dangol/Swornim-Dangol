@@ -3,7 +3,6 @@
 </div>
 
 <hr>
-
 <h3 align="center">About Me</h3>
 
 - 🔭 I’m currently working on **refining my UI/UX workflow**
@@ -21,7 +20,7 @@
 
 <h3 align="center">Development Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,javascript,dotnet,mysql,python,java&perline=4" />
+  <img src="https://skillicons.dev/icons?i=react,css,tailwind,javascript,docker,mysql,python,java&perline=4" />
 </p>
 
 <hr>
