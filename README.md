@@ -27,7 +27,7 @@
 
 <h3 align="center">Activity Overview</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swornim-dangol&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=a855f7&currStreakLabel=4facfe" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-pi-six-50.vercel.app?user=swornim-dangol&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=a855f7&currStreakLabel=4facfe" width="49%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
