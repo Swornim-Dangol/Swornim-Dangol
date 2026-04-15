@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats-pi-six-50.vercel.app?user=swornim-dangol&theme=tokyonight&hide_border=true&background=0d1117&ring=4facfe&fire=a855f7&currStreakLabel=4facfe" width="49%" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swornim-dangol&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4facfe&line=a855f7&point=ffffff" width="100%" alt="Activity Graph" />
 </p>
@@ -38,9 +37,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/swornim-dangol-b3aa39298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/swornim.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/swornim-dangol-b3aa39298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> <a href="https://instagram.com/swornim.svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,50:7b2ff7,100:ff6ec7&height=120&section=footer" alt="Footer" />
