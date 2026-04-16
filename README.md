@@ -38,7 +38,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/swornim-dangol-b3aa39298" target="blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=swornim20rks@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=swornim20rks@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://instagram.com/swornim.svg" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </>
 
